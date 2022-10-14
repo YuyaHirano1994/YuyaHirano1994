@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuya Hirano</h1>
+<!-- <h1 align="center">Hi 👋, I'm Yuya Hirano</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,3 +14,4 @@
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuyaHirano1994&layout=compact&show_icons=true&theme=dracula" />
 </p>
 
+-->
